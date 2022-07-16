@@ -1,0 +1,9 @@
+.chores {
+    font-size: 1.5vw;
+    font-style: italic;
+    color: purple;
+}
+
+h3 {
+    text-underline-offset: underline;
+}
